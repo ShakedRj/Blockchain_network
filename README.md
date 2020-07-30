@@ -87,7 +87,7 @@ After pressing "Send Transaction" we copied the TX Hash to check the status.
 ![9th step](screenshots/9.png)
 
 
-We can see in the git bash window when node1 is running that the transaction is submitted.
+It takes some time to see that it as "Success" in My Crypto, but we can see in the git bash window where node1 is running that the transaction is submitted.
 
 ![laststep](screenshots/10.png)
 
