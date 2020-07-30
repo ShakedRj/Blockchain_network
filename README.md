@@ -2,7 +2,7 @@
 
 ## How to create and start a blockchain network?
 
-In git bash nevigate to your Blockchain-Toolbox, now we need to create accounts for two nodes using the following command :
+Open git bash and nevigate to your "Blockchain-Toolbox" folder, first step is to create accounts for two nodes using the following command :
 - ./geth account new --datadir node1
 
 You will be asked to provied a password, the same command we will use for the second node, just changing node1 to node2.
